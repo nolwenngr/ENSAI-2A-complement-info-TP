@@ -1,4 +1,4 @@
-# ENSAI-2A-complement-info-TP
+# ENSAI-2A-complement-info-TP-2025
 
 Source code for the practical exercises of the ENSAI course [Compléments d'informatique](https://ludo2ne.github.io/ENSAI-2A-Projet-info/).
 
